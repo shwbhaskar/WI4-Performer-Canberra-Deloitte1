@@ -2,3 +2,25 @@ Studio - WI4-Performer-Canberra-Deloitte
 GitHub - WI4-Performer-Canberra-Deloitte1
 
 ACME_CREDENTIALS
+
+0 - TaxID: RO874231
+1 - Name: Copiers and More
+2 - Address: Strada Copiatoarelor 33
+3 - City: Brasov, Romania
+
+WIID: 359254
+Type: Generate Yearly Report for Vendor
+Status: Completed
+Date: 2018-07-07
+
+https://acme-test.uipath.com/work-items/359254
+
+https://acme-test.uipath.com/ - ACME_URL
+
+"C:\\Users\\shwbhaskar\\OneDrive - Deloitte (O365D)\\Documents\\UiPath\\WI4-Performer-Canberra-Deloitte\\Data\\Temp\\Report-RO874231-.csv"
+
+"Data\Temp"
+
+C:\Users\shwbhaskar\OneDrive - Deloitte (O365D)\Documents\UiPath\WI4-Performer-Canberra-Deloitte\Data\Temp\YearlyReport - RO874231.xlsx
+
+"C:\Users\shwbhaskar\OneDrive - Deloitte (O365D)\Documents\UiPath\WI4-Performer-Canberra-Deloitte\Data\Temp\YearlyReport - RO874231.xlsx"
